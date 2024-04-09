@@ -1,0 +1,24 @@
+{
+  "name": "php-essentials",
+  "displayName": "PHP Essentials",
+  "description": "This extension pack includes the extensions to get more productive for PHP development",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ChandanShakya/php-essentials"
+  },
+  "icon": "logo.png",
+  "publisher": "ChandanShakya",
+  "engines": {
+    "vscode": "^1.88.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "bmewburn.vscode-intelephense-client",
+    "xdebug.php-debug",
+    "hakcorp.php-awesome-snippets",
+    "junstyle.php-cs-fixer"
+  ]
+}
