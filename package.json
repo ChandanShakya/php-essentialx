@@ -2,7 +2,7 @@
   "name": "php-essentialx",
   "displayName": "PHP Essentialx",
   "description": "This extension pack includes the extensions to get more productive for PHP development",
-  "version": "3.0.0",
+  "version": "1.0.0",
   "repository": {
     "type": "git",
     "url": "https://github.com/ChandanShakya/php-essentialx"
